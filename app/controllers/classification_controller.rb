@@ -16,11 +16,13 @@ class ClassificationController < ApplicationController
   end
 
   def classify
-    words = params['words']
-    bayes = SnapshotMadeleine.new('bayes_data') { ClassifierReborn::Bayes.new }
-    @classification = bayes.system.classify(words)
+    respond_to do |format|
+      words = params['words']
+      bayes = SnapshotMadeleine.new('bayes_data') { ClassifierReborn::Bayes.new }
+      @classification = bayes.system.classify(words)
 
-    @classification 
+      format.js
+    end
   end
 
   def index

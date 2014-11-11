@@ -1,0 +1,6 @@
+$('#results').empty().append('<%= j render partial: "classification", object: @classification %>');
+$('form input').each( 
+  function(){
+    this.value= ''
+  }
+)

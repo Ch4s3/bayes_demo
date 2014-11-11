@@ -19,7 +19,7 @@ class ClassificationController < ApplicationController
     respond_to do |format|
       words = params['words']
       bayes = SnapshotMadeleine.new('bayes_data') { ClassifierReborn::Bayes.new }
-      @classification = bayes.system.classify(words)
+      @classification = bayes.system.klassify(words)
 
       format.js
     end

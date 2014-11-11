@@ -1,0 +1,15 @@
+.container
+  .col-xs-6.col-md-offset-3
+    .panel.panel-default
+      .panel-heading
+        %h1.panel-title Train All the Things!
+      .panel-body
+        =form_tag(train_path, method: "post") do
+          .form-group
+            %label Category
+            = text_field_tag(:category, "", autofocus: true, class: "input form-control")
+          .form-group
+            %label Word(s)
+            = text_area_tag(:words, "", class: "input form-control")
+          .div
+            %button.btn.btn-primary.btn-sml{type: "submit"} TRAIN!

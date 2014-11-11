@@ -1,3 +1,6 @@
 Rails.application.routes.draw do
-  root to: 'visitors#index'
+  post 'classification/train', as: '/train'
+  get 'classification/classify', as: '/classify'
+
+  root to: 'classification#index'
 end

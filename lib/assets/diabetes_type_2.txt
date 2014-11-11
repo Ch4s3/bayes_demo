@@ -1,0 +1,110 @@
+Diabetes mellitus type 2 (formerly noninsulin-dependent diabetes mellitus (NIDDM) or adult-onset diabetes) is a metabolic disorder that is characterized by hyperglycemia (high blood sugar) in the context of insulin resistance and relative lack of insulin.[2] This is in contrast to diabetes mellitus type 1, in which there is an absolute lack of insulin due to breakdown of islet cells in the pancreas.[3] The classic symptoms are excess thirst, frequent urination, and constant hunger. Type 2 diabetes makes up about 90% of cases of diabetes, with the other 10% due primarily to diabetes mellitus type 1 and gestational diabetes. Obesity is thought to be the primary cause of type 2 diabetes in people who are genetically predisposed to the disease (although this is not the case in people of East-Asian ancestry).
+
+Type 2 diabetes is initially managed by increasing exercise and dietary changes. If blood sugar levels are not adequately lowered by these measures, medications such as metformin or insulin may be needed. In those on insulin, there is typically the requirement to routinely check blood sugar levels.
+
+Rates of type 2 diabetes have increased markedly since 1960 in parallel with obesity. As of 2010 there were approximately 285 million people diagnosed with the disease compared to around 30 million in 1985.[4][5] Long-term complications from high blood sugar can include heart disease, strokes, diabetic retinopathy where eyesight is affected, kidney failure which may require dialysis, and poor blood flow in the limbs leading to amputations. The acute complication of ketoacidosis, a feature of type 1 diabetes, is uncommon,[6] however hyperosmolar hyperglycemic state may occur.
+
+Overview of the most significant symptoms of diabetes
+The classic symptoms of diabetes are polyuria (frequent urination), polydipsia (increased thirst), polyphagia (increased hunger), and weight loss.[7] Other symptoms that are commonly present at diagnosis include a history of blurred vision, itchiness, peripheral neuropathy, recurrent vaginal infections, and fatigue.[3] Many people, however, have no symptoms during the first few years and are diagnosed on routine testing.[3] People with type 2 diabetes mellitus may rarely present with hyperosmolar hyperglycemic state (a condition of very high blood sugar associated with a decreased level of consciousness and low blood pressure).[3]
+
+Complications
+Main article: Complications of diabetes mellitus
+Type 2 diabetes is typically a chronic disease associated with a ten-year-shorter life expectancy.[4] This is partly due to a number of complications with which it is associated, including: two to four times the risk of cardiovascular disease, including ischemic heart disease and stroke; a 20-fold increase in lower limb amputations, and increased rates of hospitalizations.[4] In the developed world, and increasingly elsewhere, type 2 diabetes is the largest cause of nontraumatic blindness and kidney failure.[8] It has also been associated with an increased risk of cognitive dysfunction and dementia through disease processes such as Alzheimer's disease and vascular dementia.[9] Other complications include acanthosis nigricans, sexual dysfunction, and frequent infections.[7]
+
+Cause
+The development of type 2 diabetes is caused by a combination of lifestyle and genetic factors.[8][10] While some of these factors are under personal control, such as diet and obesity, other factors are not, such as increasing age, female gender, and genetics.[4] A lack of sleep has been linked to type 2 diabetes.[11] This is believed to act through its effect on metabolism.[11] The nutritional status of a mother during fetal development may also play a role, with one proposed mechanism being that of altered DNA methylation.[12]
+
+Lifestyle
+Main article: Lifestyle causes of diabetes mellitus type 2
+A number of lifestyle factors are known to be important to the development of type 2 diabetes, including obesity and overweight (defined by a body mass index of greater than 25), lack of physical activity, poor diet, stress, and urbanization.[4][13] Excess body fat is associated with 30% of cases in those of Chinese and Japanese descent, 60-80% of cases in those of European and African descent, and 100% of cases in Pima Indians and Pacific Islanders.[3] Those who are not obese often have a high waist–hip ratio.[3]
+
+Dietary factors also influence the risk of developing type 2 diabetes. Consumption of sugar-sweetened drinks in excess is associated with an increased risk.[14][15] The type of fats in the diet are also important, with saturated fats and trans fatty acids increasing the risk, and polyunsaturated and monounsaturated fat decreasing the risk.[10] Eating lots of white rice appears to also play a role in increasing risk.[16] A lack of exercise is believed to cause 7% of cases.[17] Persistent organic pollutants may also play a role.[18]
+
+Genetics
+Main article: Genetic causes of diabetes mellitus type 2
+Most cases of diabetes involve many genes, with each being a small contributor to an increased probability of becoming a type 2 diabetic.[4] If one identical twin has diabetes, the chance of the other developing diabetes within his lifetime is greater than 90%, while the rate for nonidentical siblings is 25–50%.[3] As of 2011, more than 36 genes had been found that contribute to the risk of type 2 diabetes.[19] All of these genes together still only account for 10% of the total heritable component of the disease.[19] The TCF7L2 allele, for example, increases the risk of developing diabetes by 1.5 times and is the greatest risk of the common genetic variants.[3] Most of the genes linked to diabetes are involved in beta cell functions.[3]
+
+There are a number of rare cases of diabetes that arise due to an abnormality in a single gene (known as monogenic forms of diabetes or "other specific types of diabetes").[3][4] These include maturity onset diabetes of the young (MODY), Donohue syndrome, and Rabson-Mendenhall syndrome, among others.[4] Maturity onset diabetes of the young constitute 1–5% of all cases of diabetes in young people.[20]
+
+Medical conditions
+There are a number of medications and other health problems that can predispose to diabetes.[21] Some of the medications include: glucocorticoids, thiazides, beta blockers, atypical antipsychotics,[22] and statins.[23] Those who have previously had gestational diabetes are at a higher risk of developing type 2 diabetes.[7] Other health problems that are associated include: acromegaly, Cushing's syndrome, hyperthyroidism, pheochromocytoma, and certain cancers such as glucagonomas.[21] Testosterone deficiency is also associated with type 2 diabetes.[24][25]
+
+Pathophysiology
+Type 2 diabetes is due to insufficient insulin production from beta cells in the setting of insulin resistance.[3] Insulin resistance, which is the inability of cells to respond adequately to normal levels of insulin, occurs primarily within the muscles, liver, and fat tissue.[26] In the liver, insulin normally suppresses glucose release. However, in the setting of insulin resistance, the liver inappropriately releases glucose into the blood.[4] The proportion of insulin resistance versus beta cell dysfunction differs among individuals, with some having primarily insulin resistance and only a minor defect in insulin secretion and others with slight insulin resistance and primarily a lack of insulin secretion.[3]
+
+Other potentially important mechanisms associated with type 2 diabetes and insulin resistance include: increased breakdown of lipids within fat cells, resistance to and lack of incretin, high glucagon levels in the blood, increased retention of salt and water by the kidneys, and inappropriate regulation of metabolism by the central nervous system.[4] However, not all people with insulin resistance develop diabetes, since an impairment of insulin secretion by pancreatic beta cells is also required.[3]
+
+Diagnosis
+WHO diabetes diagnostic criteria[27][28]  edit
+Condition 2 hour glucose  Fasting glucose HbA1c
+Unit  mmol/l(mg/dl) mmol/l(mg/dl) %
+Normal  <7.8 (<140) <6.1 (<110) <6.0
+Impaired fasting glycaemia  <7.8 (<140) ≥ 6.1(≥110) & <7.0(<126)  6.0–6.4
+Impaired glucose tolerance  ≥7.8 (≥140) <7.0 (<126) 6.0–6.4
+Diabetes mellitus ≥11.1 (≥200)  ≥7.0 (≥126) ≥6.5
+The World Health Organization definition of diabetes (both type 1 and type 2) is for a single raised glucose reading with symptoms, otherwise raised values on two occasions, of either:[29]
+
+fasting plasma glucose ≥ 7.0 mmol/l (126 mg/dl)
+or
+with a glucose tolerance test, two hours after the oral dose a plasma glucose ≥ 11.1 mmol/l (200 mg/dl)
+A random blood sugar of greater than 11.1 mmol/l (200 mg/dL) in association with typical symptoms[7] or a glycated hemoglobin (HbA1c) of greater than 6.5% is another method of diagnosing diabetes.[4] In 2009 an International Expert Committee that included representatives of the American Diabetes Association (ADA), the International Diabetes Federation (IDF), and the European Association for the Study of Diabetes (EASD) recommended that a threshold of ≥6.5% HbA1c should be used to diagnose diabetes.[30] This recommendation was adopted by the American Diabetes Association in 2010.[31] Positive tests should be repeated unless the person presents with typical symptoms and blood sugars >11.1 mmol/l (>200 mg/dl).[30]
+
+Threshold for diagnosis of diabetes is based on the relationship between results of glucose tolerance tests, fasting glucose or HbA1c and complications such as retinal problems.[4] A fasting or random blood sugar is preferred over the glucose tolerance test, as they are more convenient for people.[4] HbA1c has the advantages that fasting is not required and results are more stable but has the disadvantage that the test is more costly than measurement of blood glucose.[32] It is estimated that 20% of people with diabetes in the United States do not realize that they have the disease.[4]
+
+Diabetes mellitus type 2 is characterized by high blood glucose in the context of insulin resistance and relative insulin deficiency.[2] This is in contrast to diabetes mellitus type 1 in which there is an absolute insulin deficiency due to destruction of islet cells in the pancreas and gestational diabetes mellitus that is a new onset of high blood sugars associated with pregnancy.[3] Type 1 and type 2 diabetes can typically be distinguished based on the presenting circumstances.[30] If the diagnosis is in doubt antibody testing may be useful to confirm type 1 diabetes and C-peptide levels may be useful to confirm type 2 diabetes,[33] with C-peptide levels normal or high in type 2 diabetes, but low in type 1 diabetes.
+
+Screening
+No major organization recommends universal screening for diabetes as there is no evidence that such a program would improve outcomes.[34] Screening is recommended by the United States Preventive Services Task Force (USPSTF) in adults without symptoms whose blood pressure is greater than 135/80 mmHg.[35] For those whose blood pressure is less, the evidence is insufficient to recommend for or against screening.[35]
+
+The World Health Organization recommends testing those groups at high risk[34] and in 2014 the USPSTF is considering a similar recommendation.[36] High-risk groups in the United States include: those over 45 years old; those with a first degree relative with diabetes; some ethnic groups, including Hispanics, African-Americans, and Native-Americans; a history of gestational diabetes; polycystic ovary syndrome; excess weight; and conditions associated with metabolic syndrome.[7]
+
+Prevention
+Main article: Prevention of diabetes mellitus type 2
+Onset of type 2 diabetes can be delayed or prevented through proper nutrition and regular exercise.[37][38] Intensive lifestyle measures may reduce the risk by over half.[8][39] The benefit of exercise occurs regardless of the person's initial weight or subsequent weight loss.[40] Evidence for the benefit of dietary changes alone, however, is limited,[41] with some evidence for a diet high in green leafy vegetables[42] and some for limiting the intake of sugary drinks.[14] In those with impaired glucose tolerance, diet and exercise either alone or in combination with metformin or acarbose may decrease the risk of developing diabetes.[8][43] Lifestyle interventions are more effective than metformin.[8] While low vitamin D levels are associated with an increased risk of diabetes, correcting the levels by supplementing vitamin D3 does not improve that risk.[44]
+
+Management
+Further information: Diabetes management
+Management of type 2 diabetes focuses on lifestyle interventions, lowering other cardiovascular risk factors, and maintaining blood glucose levels in the normal range.[8] Self-monitoring of blood glucose for people with newly diagnosed type 2 diabetes was recommended by the British National Health Service in 2008,[45] however the benefit of self monitoring in those not using multi-dose insulin is questionable.[8][46] Managing other cardiovascular risk factors, such as hypertension, high cholesterol, and microalbuminuria, improves a person's life expectancy.[8] Intensive blood pressure management (less than 130/80 mmHg) as opposed to standard blood pressure management (less than 140–160/85–100 mmHg) results in a slight decrease in stroke risk but no effect on overall risk of death.[47]
+
+Intensive blood sugar lowering (HbA1c<6%) as opposed to standard blood sugar lowering (HbA1c of 7–7.9%) does not appear to change mortality.[48][49] The goal of treatment is typically an HbA1c of less than 7% or a fasting glucose of less than 6.7 mmol/L (120 mg/dL); however these goals may be changed after professional clinical consultation, taking into account particular risks of hypoglycemia and life expectancy.[7] It is recommended that all people with type 2 diabetes get regular ophthalmology examination.[3] Treating gum disease in those with diabetes may result in a small improvement in blood sugar levels.[50]
+
+Lifestyle
+A proper diet and exercise are the foundations of diabetic care,[7] with a greater amount of exercise yielding better results.[51] Aerobic exercise leads to a decrease in HbA1c and improved insulin sensitivity.[51] Resistance training is also useful and the combination of both types of exercise may be most effective.[51] A diabetic diet that promotes weight loss is important.[52] While the best diet type to achieve this is controversial,[52] a low glycemic index diet has been found to improve blood sugar control.[53] Culturally appropriate education may help people with type 2 diabetes control their blood sugar levels, for up to six months at least.[54] If changes in lifestyle in those with mild diabetes has not resulted in improved blood sugars within six weeks, medications should then be considered.[7] There is not enough evidence to determine if lifestyle interventions affect mortality in those who already have DM.[55]
+
+Medications
+
+Metformin 500mg tablets
+There are several classes of anti-diabetic medications available. Metformin is generally recommended as a first line treatment as there is some evidence that it decreases mortality;[8] however, this conclusion is questioned.[56] A second oral agent of another class may be used if metformin is not sufficient.[57] Other classes of medications include: sulfonylureas, nonsulfonylurea secretagogues, alpha glucosidase inhibitors, thiazolidinediones, glucagon-like peptide-1 analog, and dipeptidyl peptidase-4 inhibitors.[8][58] Rosiglitazone, a thiazolidinedione, has not been found to improve long term outcomes even though it improves blood sugar levels.[59] Additionally it is associated with increased rates of heart disease and death.[60] Metformin should not be used in those with severe kidney or liver problems.[7] Injections of insulin may either be added to oral medication or used alone.[8]
+
+Most people do not initially need insulin.[3] When it is used, a long-acting formulation is typically added at night, with oral medications being continued.[7][8] Doses are then increased to effect (blood sugar levels being well controlled).[8] When nightly insulin is insufficient, twice daily insulin may achieve better control.[7] The long acting insulins glargine and detemir are equally safe and effective,[61] and do not appear much better than neutral protamine Hagedorn (NPH) insulin, but as they are significantly more expensive, they are not cost effective.[62][note 1] In those who are pregnant insulin is generally the treatment of choice.[7] Angiotensin-converting enzyme inhibitors (ACEIs) prevent kidney disease and improve outcomes in those with diabetes.[63][64] The similar medications angiotensin receptor blockers (ARBs) do not.[64]
+
+Surgery
+Weight loss surgery in those who are obese is an effective measure to treat diabetes.[65] Many are able to maintain normal blood sugar levels with little or no medications following surgery[66] and long-term mortality is decreased.[67] There however is some short-term mortality risk of less than 1% from the surgery.[68] The body mass index cutoffs for when surgery is appropriate are not yet clear.[67] It is recommended that this option be considered in those who are unable to get both their weight and blood sugar under control.[69]
+
+Epidemiology
+
+Prevalence of diabetes worldwide in 2000 (per 1000 inhabitants). World average was 2.8%.
+  no data
+  ≤ 7.5
+  7.5–15
+  15–22.5
+  22.5–30
+  30–37.5
+  37.5–45
+  45–52.5
+  52.5–60
+  60–67.5
+  67.5–75
+  75–82.5
+  ≥ 82.5
+Globally as of 2010 it was estimated that there were 285 million people with type 2 diabetes making up about 90% of diabetes cases.[4] This is equivalent to about 6% of the world's adult population.[70] Diabetes is common both in the developed and the developing world.[4] It remains uncommon, however, in the underdeveloped world.[3]
+
+Women seem to be at a greater risk as do certain ethnic groups,[4][71] such as South Asians, Pacific Islanders, Latinos, and Native Americans.[7] This may be due to enhanced sensitivity to a Western lifestyle in certain ethnic groups.[72] Traditionally considered a disease of adults, type 2 diabetes is increasingly diagnosed in children in parallel with rising obesity rates.[4] Type 2 diabetes is now diagnosed as frequently as type 1 diabetes in teenagers in the United States.[3]
+
+Rates of diabetes in 1985 were estimated at 30 million, increasing to 135 million in 1995 and 217 million in 2005.[5] This increase is believed to be primarily due to the global population aging, a decrease in exercise, and increasing rates of obesity.[5] The five countries with the greatest number of people with diabetes as of 2000 are India having 31.7 million, China 20.8 million, the United States 17.7 million, Indonesia 8.4 million, and Japan 6.8 million.[73] It is recognized as a global epidemic by the World Health Organization.[74]
+
+History
+Main article: History of diabetes
+Diabetes is one of the first diseases described[75] with an Egyptian manuscript from c. 1500 BCE mentioning "too great emptying of the urine."[76] The first described cases are believed to be of type 1 diabetes.[76] Indian physicians around the same time identified the disease and classified it as madhumeha or honey urine noting that the urine would attract ants.[76] The term "diabetes" or "to pass through" was first used in 230 BCE by the Greek Appollonius Of Memphis.[76] The disease was rare during the time of the Roman empire with Galen commenting that he had only seen two cases during his career.[76]
+
+Type 1 and type 2 diabetes were identified as separate conditions for the first time by the Indian physicians Sushruta and Charaka in 400-500 AD with type 1 associated with youth and type 2 with being overweight.[76] The term "mellitus" or "from honey" was added by the Briton John Rolle in the late 1700s to separate the condition from diabetes insipidus which is also associated with frequent urination.[76] Effective treatment was not developed until the early part of the 20th century when the Canadians Frederick Banting and Charles Best discovered insulin in 1921 and 1922.[76] This was followed by the development of the long acting NPH insulin in the 1940s.[76]
